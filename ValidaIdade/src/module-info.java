@@ -1,0 +1,3 @@
+module ValidaIdade {
+	exports verificacartao;
+}
